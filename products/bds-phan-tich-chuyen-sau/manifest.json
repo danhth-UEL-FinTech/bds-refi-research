@@ -1,0 +1,14 @@
+{
+  "product_id": 6,
+  "slug": "bds-phan-tich-chuyen-sau",
+  "name": "BDS Việt Nam — Phân tích Chuyên sâu Thị trường Bất động sản",
+  "type": "notebook",
+  "license": "CC-BY-4.0",
+  "visibility": "public",
+  "status": "published",
+  "latest_version": "1.0.0",
+  "versions": [
+    "1.0.0"
+  ],
+  "updated_at": "2026-06-12T09:44:28.740576+00:00"
+}
