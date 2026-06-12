@@ -1,0 +1,70 @@
+{
+  "version": "1.0.0",
+  "changelog": "Phiên bản đầu: báo cáo tổng hợp 2024Q1–2026Q1, data tải từ Google Drive (11 file), 10 code cells executed, 0 errors.",
+  "created_at": "2026-06-12T09:18:07.916674",
+  "files": [
+    {
+      "path": "BDS/00_bao_cao_tong_hop_BDS.ipynb",
+      "label": "Notebook báo cáo tổng hợp (7 figures)",
+      "format": "ipynb"
+    },
+    {
+      "path": "BDS/datasets/macro_monthly.csv",
+      "label": "Vĩ mô 9 chỉ số theo tháng 2024-08→2026-04",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_supply_quarterly.csv",
+      "label": "Cung BĐS theo quý",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_supply_city_quarterly.csv",
+      "label": "Cung theo thành phố × quý",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_supply_hcm_region_2025q3.csv",
+      "label": "Cung TPHCM theo vùng 2025Q3",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_transactions_quarterly.csv",
+      "label": "Giao dịch theo quý",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_transactions_annual.csv",
+      "label": "Giao dịch theo năm",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_inventory_quarterly.csv",
+      "label": "Tồn kho theo quý",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_price_q1_2026.csv",
+      "label": "Giá Q1/2026",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_price_range_2025.csv",
+      "label": "Biên giá 2025",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/re_city_apartment.csv",
+      "label": "Căn hộ theo thành phố",
+      "format": "csv"
+    },
+    {
+      "path": "BDS/datasets/reports_catalog.csv",
+      "label": "Catalog 24 báo cáo nguồn",
+      "format": "csv"
+    }
+  ],
+  "sample_questions": [],
+  "row_count": null,
+  "size_bytes": null
+}
