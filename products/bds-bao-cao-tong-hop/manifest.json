@@ -1,0 +1,14 @@
+{
+  "product_id": 5,
+  "slug": "bds-bao-cao-tong-hop",
+  "name": "BDS Việt Nam — Báo cáo Tổng hợp Thị trường Bất động sản",
+  "type": "notebook",
+  "license": "CC-BY-4.0",
+  "visibility": "public",
+  "status": "published",
+  "latest_version": "1.0.0",
+  "versions": [
+    "1.0.0"
+  ],
+  "updated_at": "2026-06-12T09:44:21.333244+00:00"
+}
